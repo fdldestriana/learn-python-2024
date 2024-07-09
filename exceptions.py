@@ -1,6 +1,6 @@
 # Created by : Fadly Destriana Rusmana
 # Date : 2024-07-07
-# Description : Learn the exception in pyuthon
+# Description : Learn the exception in python
 
 # exception occures even in syntatically correct code
 # zerro division error

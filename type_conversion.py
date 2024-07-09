@@ -1,3 +1,7 @@
+# Created by : Fadly Destriana Rusmana
+# Date : 2024-07-07
+# Description : Learn type convertion in python
+
 integer_number = 123
 float_number = 1.23
 
